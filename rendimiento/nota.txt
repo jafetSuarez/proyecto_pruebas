@@ -1,0 +1,26 @@
+NOTA:
+Recuerde habilitar únicamente
+el caso de prueba que desea 
+ejecutar.
+
+Se plantearon los casos en el
+mismo proyecto para poder hacer
+comparaciones sin tener que abrir
+demasiados archivos, esto también
+pensando en equipos más limitados
+en hardware.          .-~~-.--.
+                     :         )
+               .~ ~ -.\       /.- ~~ .
+               >       `.   .'       <
+              (         .- -.         )
+               `- -.-~  `- -'  ~-.- -'
+                 (        :        )           _ _ .-:
+                  ~--.    :    .--~        .-~  .-~  }
+                      ~-.-^-.-~ \_      .~  .-~   .~
+                               \ \'     \ '_ _ -~
+                                `.`.    //
+                       . - ~ ~-.__`.`-.//
+                   .-~   . - ~  }~ ~ ~-.~-.
+                 .' .-~      .-~       :/~-.~-./:
+                /_~_ _ . - ~                 ~-.~-._
+                                                 ~-.<

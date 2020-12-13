@@ -1,0 +1,196 @@
+
+TEST CASES
+case	Cuidado del bebé	Cuidado de la ropa	Cuidado de la familia	Cuidado femenino	Cuidado personal	Cuidado del cabello	Cuidado del hogar	Cuidado oral	Cuidado de la salud	Cuidado personal y de la piel	pairings
+1	S	S	S	S	S	S	S	S	S	S	45
+2	S	N	N	N	N	N	N	N	N	N	45
+3	N	S	N	S	N	S	N	S	N	S	29
+4	N	N	S	N	S	N	S	N	S	N	29
+5	~S	S	S	N	N	S	S	N	N	S	10
+6	~S	N	N	S	S	N	N	S	S	N	10
+7	~N	S	N	N	S	N	S	S	N	S	5
+8	~N	N	S	S	N	S	N	N	S	N	5
+9	~S	S	~S	~S	~S	~N	~N	~N	~N	N	1
+10	~S	N	~N	~N	~N	~S	~S	~S	~S	S	1
+
+PAIRING DETAILS
+var1	var2	value1	value2	appearances	cases
+Cuidado del bebé	Cuidado de la ropa	S	S	3	1, 5, 9
+Cuidado del bebé	Cuidado de la ropa	S	N	3	2, 6, 10
+Cuidado del bebé	Cuidado de la ropa	N	S	2	3, 7
+Cuidado del bebé	Cuidado de la ropa	N	N	2	4, 8
+Cuidado del bebé	Cuidado de la familia	S	S	3	1, 5, 9
+Cuidado del bebé	Cuidado de la familia	S	N	3	2, 6, 10
+Cuidado del bebé	Cuidado de la familia	N	S	2	4, 8
+Cuidado del bebé	Cuidado de la familia	N	N	2	3, 7
+Cuidado del bebé	Cuidado femenino	S	S	3	1, 6, 9
+Cuidado del bebé	Cuidado femenino	S	N	3	2, 5, 10
+Cuidado del bebé	Cuidado femenino	N	S	2	3, 8
+Cuidado del bebé	Cuidado femenino	N	N	2	4, 7
+Cuidado del bebé	Cuidado personal	S	S	3	1, 6, 9
+Cuidado del bebé	Cuidado personal	S	N	3	2, 5, 10
+Cuidado del bebé	Cuidado personal	N	S	2	4, 7
+Cuidado del bebé	Cuidado personal	N	N	2	3, 8
+Cuidado del bebé	Cuidado del cabello	S	S	3	1, 5, 10
+Cuidado del bebé	Cuidado del cabello	S	N	3	2, 6, 9
+Cuidado del bebé	Cuidado del cabello	N	S	2	3, 8
+Cuidado del bebé	Cuidado del cabello	N	N	2	4, 7
+Cuidado del bebé	Cuidado del hogar	S	S	3	1, 5, 10
+Cuidado del bebé	Cuidado del hogar	S	N	3	2, 6, 9
+Cuidado del bebé	Cuidado del hogar	N	S	2	4, 7
+Cuidado del bebé	Cuidado del hogar	N	N	2	3, 8
+Cuidado del bebé	Cuidado oral	S	S	3	1, 6, 10
+Cuidado del bebé	Cuidado oral	S	N	3	2, 5, 9
+Cuidado del bebé	Cuidado oral	N	S	2	3, 7
+Cuidado del bebé	Cuidado oral	N	N	2	4, 8
+Cuidado del bebé	Cuidado de la salud	S	S	3	1, 6, 10
+Cuidado del bebé	Cuidado de la salud	S	N	3	2, 5, 9
+Cuidado del bebé	Cuidado de la salud	N	S	2	4, 8
+Cuidado del bebé	Cuidado de la salud	N	N	2	3, 7
+Cuidado del bebé	Cuidado personal y de la piel	S	S	3	1, 5, 10
+Cuidado del bebé	Cuidado personal y de la piel	S	N	3	2, 6, 9
+Cuidado del bebé	Cuidado personal y de la piel	N	S	2	3, 7
+Cuidado del bebé	Cuidado personal y de la piel	N	N	2	4, 8
+Cuidado de la ropa	Cuidado de la familia	S	S	3	1, 5, 9
+Cuidado de la ropa	Cuidado de la familia	S	N	2	3, 7
+Cuidado de la ropa	Cuidado de la familia	N	S	2	4, 8
+Cuidado de la ropa	Cuidado de la familia	N	N	3	2, 6, 10
+Cuidado de la ropa	Cuidado femenino	S	S	3	1, 3, 9
+Cuidado de la ropa	Cuidado femenino	S	N	2	5, 7
+Cuidado de la ropa	Cuidado femenino	N	S	2	6, 8
+Cuidado de la ropa	Cuidado femenino	N	N	3	2, 4, 10
+Cuidado de la ropa	Cuidado personal	S	S	3	1, 7, 9
+Cuidado de la ropa	Cuidado personal	S	N	2	3, 5
+Cuidado de la ropa	Cuidado personal	N	S	2	4, 6
+Cuidado de la ropa	Cuidado personal	N	N	3	2, 8, 10
+Cuidado de la ropa	Cuidado del cabello	S	S	3	1, 3, 5
+Cuidado de la ropa	Cuidado del cabello	S	N	2	7, 9
+Cuidado de la ropa	Cuidado del cabello	N	S	2	8, 10
+Cuidado de la ropa	Cuidado del cabello	N	N	3	2, 4, 6
+Cuidado de la ropa	Cuidado del hogar	S	S	3	1, 5, 7
+Cuidado de la ropa	Cuidado del hogar	S	N	2	3, 9
+Cuidado de la ropa	Cuidado del hogar	N	S	2	4, 10
+Cuidado de la ropa	Cuidado del hogar	N	N	3	2, 6, 8
+Cuidado de la ropa	Cuidado oral	S	S	3	1, 3, 7
+Cuidado de la ropa	Cuidado oral	S	N	2	5, 9
+Cuidado de la ropa	Cuidado oral	N	S	2	6, 10
+Cuidado de la ropa	Cuidado oral	N	N	3	2, 4, 8
+Cuidado de la ropa	Cuidado de la salud	S	S	1	1
+Cuidado de la ropa	Cuidado de la salud	S	N	4	3, 5, 7, 9
+Cuidado de la ropa	Cuidado de la salud	N	S	4	4, 6, 8, 10
+Cuidado de la ropa	Cuidado de la salud	N	N	1	2
+Cuidado de la ropa	Cuidado personal y de la piel	S	S	4	1, 3, 5, 7
+Cuidado de la ropa	Cuidado personal y de la piel	S	N	1	9
+Cuidado de la ropa	Cuidado personal y de la piel	N	S	1	10
+Cuidado de la ropa	Cuidado personal y de la piel	N	N	4	2, 4, 6, 8
+Cuidado de la familia	Cuidado femenino	S	S	3	1, 8, 9
+Cuidado de la familia	Cuidado femenino	S	N	2	4, 5
+Cuidado de la familia	Cuidado femenino	N	S	2	3, 6
+Cuidado de la familia	Cuidado femenino	N	N	3	2, 7, 10
+Cuidado de la familia	Cuidado personal	S	S	3	1, 4, 9
+Cuidado de la familia	Cuidado personal	S	N	2	5, 8
+Cuidado de la familia	Cuidado personal	N	S	2	6, 7
+Cuidado de la familia	Cuidado personal	N	N	3	2, 3, 10
+Cuidado de la familia	Cuidado del cabello	S	S	3	1, 5, 8
+Cuidado de la familia	Cuidado del cabello	S	N	2	4, 9
+Cuidado de la familia	Cuidado del cabello	N	S	2	3, 10
+Cuidado de la familia	Cuidado del cabello	N	N	3	2, 6, 7
+Cuidado de la familia	Cuidado del hogar	S	S	3	1, 4, 5
+Cuidado de la familia	Cuidado del hogar	S	N	2	8, 9
+Cuidado de la familia	Cuidado del hogar	N	S	2	7, 10
+Cuidado de la familia	Cuidado del hogar	N	N	3	2, 3, 6
+Cuidado de la familia	Cuidado oral	S	S	1	1
+Cuidado de la familia	Cuidado oral	S	N	4	4, 5, 8, 9
+Cuidado de la familia	Cuidado oral	N	S	4	3, 6, 7, 10
+Cuidado de la familia	Cuidado oral	N	N	1	2
+Cuidado de la familia	Cuidado de la salud	S	S	3	1, 4, 8
+Cuidado de la familia	Cuidado de la salud	S	N	2	5, 9
+Cuidado de la familia	Cuidado de la salud	N	S	2	6, 10
+Cuidado de la familia	Cuidado de la salud	N	N	3	2, 3, 7
+Cuidado de la familia	Cuidado personal y de la piel	S	S	2	1, 5
+Cuidado de la familia	Cuidado personal y de la piel	S	N	3	4, 8, 9
+Cuidado de la familia	Cuidado personal y de la piel	N	S	3	3, 7, 10
+Cuidado de la familia	Cuidado personal y de la piel	N	N	2	2, 6
+Cuidado femenino	Cuidado personal	S	S	3	1, 6, 9
+Cuidado femenino	Cuidado personal	S	N	2	3, 8
+Cuidado femenino	Cuidado personal	N	S	2	4, 7
+Cuidado femenino	Cuidado personal	N	N	3	2, 5, 10
+Cuidado femenino	Cuidado del cabello	S	S	3	1, 3, 8
+Cuidado femenino	Cuidado del cabello	S	N	2	6, 9
+Cuidado femenino	Cuidado del cabello	N	S	2	5, 10
+Cuidado femenino	Cuidado del cabello	N	N	3	2, 4, 7
+Cuidado femenino	Cuidado del hogar	S	S	1	1
+Cuidado femenino	Cuidado del hogar	S	N	4	3, 6, 8, 9
+Cuidado femenino	Cuidado del hogar	N	S	4	4, 5, 7, 10
+Cuidado femenino	Cuidado del hogar	N	N	1	2
+Cuidado femenino	Cuidado oral	S	S	3	1, 3, 6
+Cuidado femenino	Cuidado oral	S	N	2	8, 9
+Cuidado femenino	Cuidado oral	N	S	2	7, 10
+Cuidado femenino	Cuidado oral	N	N	3	2, 4, 5
+Cuidado femenino	Cuidado de la salud	S	S	3	1, 6, 8
+Cuidado femenino	Cuidado de la salud	S	N	2	3, 9
+Cuidado femenino	Cuidado de la salud	N	S	2	4, 10
+Cuidado femenino	Cuidado de la salud	N	N	3	2, 5, 7
+Cuidado femenino	Cuidado personal y de la piel	S	S	2	1, 3
+Cuidado femenino	Cuidado personal y de la piel	S	N	3	6, 8, 9
+Cuidado femenino	Cuidado personal y de la piel	N	S	3	5, 7, 10
+Cuidado femenino	Cuidado personal y de la piel	N	N	2	2, 4
+Cuidado personal	Cuidado del cabello	S	S	1	1
+Cuidado personal	Cuidado del cabello	S	N	4	4, 6, 7, 9
+Cuidado personal	Cuidado del cabello	N	S	4	3, 5, 8, 10
+Cuidado personal	Cuidado del cabello	N	N	1	2
+Cuidado personal	Cuidado del hogar	S	S	3	1, 4, 7
+Cuidado personal	Cuidado del hogar	S	N	2	6, 9
+Cuidado personal	Cuidado del hogar	N	S	2	5, 10
+Cuidado personal	Cuidado del hogar	N	N	3	2, 3, 8
+Cuidado personal	Cuidado oral	S	S	3	1, 6, 7
+Cuidado personal	Cuidado oral	S	N	2	4, 9
+Cuidado personal	Cuidado oral	N	S	2	3, 10
+Cuidado personal	Cuidado oral	N	N	3	2, 5, 8
+Cuidado personal	Cuidado de la salud	S	S	3	1, 4, 6
+Cuidado personal	Cuidado de la salud	S	N	2	7, 9
+Cuidado personal	Cuidado de la salud	N	S	2	8, 10
+Cuidado personal	Cuidado de la salud	N	N	3	2, 3, 5
+Cuidado personal	Cuidado personal y de la piel	S	S	2	1, 7
+Cuidado personal	Cuidado personal y de la piel	S	N	3	4, 6, 9
+Cuidado personal	Cuidado personal y de la piel	N	S	3	3, 5, 10
+Cuidado personal	Cuidado personal y de la piel	N	N	2	2, 8
+Cuidado del cabello	Cuidado del hogar	S	S	3	1, 5, 10
+Cuidado del cabello	Cuidado del hogar	S	N	2	3, 8
+Cuidado del cabello	Cuidado del hogar	N	S	2	4, 7
+Cuidado del cabello	Cuidado del hogar	N	N	3	2, 6, 9
+Cuidado del cabello	Cuidado oral	S	S	3	1, 3, 10
+Cuidado del cabello	Cuidado oral	S	N	2	5, 8
+Cuidado del cabello	Cuidado oral	N	S	2	6, 7
+Cuidado del cabello	Cuidado oral	N	N	3	2, 4, 9
+Cuidado del cabello	Cuidado de la salud	S	S	3	1, 8, 10
+Cuidado del cabello	Cuidado de la salud	S	N	2	3, 5
+Cuidado del cabello	Cuidado de la salud	N	S	2	4, 6
+Cuidado del cabello	Cuidado de la salud	N	N	3	2, 7, 9
+Cuidado del cabello	Cuidado personal y de la piel	S	S	4	1, 3, 5, 10
+Cuidado del cabello	Cuidado personal y de la piel	S	N	1	8
+Cuidado del cabello	Cuidado personal y de la piel	N	S	1	7
+Cuidado del cabello	Cuidado personal y de la piel	N	N	4	2, 4, 6, 9
+Cuidado del hogar	Cuidado oral	S	S	3	1, 7, 10
+Cuidado del hogar	Cuidado oral	S	N	2	4, 5
+Cuidado del hogar	Cuidado oral	N	S	2	3, 6
+Cuidado del hogar	Cuidado oral	N	N	3	2, 8, 9
+Cuidado del hogar	Cuidado de la salud	S	S	3	1, 4, 10
+Cuidado del hogar	Cuidado de la salud	S	N	2	5, 7
+Cuidado del hogar	Cuidado de la salud	N	S	2	6, 8
+Cuidado del hogar	Cuidado de la salud	N	N	3	2, 3, 9
+Cuidado del hogar	Cuidado personal y de la piel	S	S	4	1, 5, 7, 10
+Cuidado del hogar	Cuidado personal y de la piel	S	N	1	4
+Cuidado del hogar	Cuidado personal y de la piel	N	S	1	3
+Cuidado del hogar	Cuidado personal y de la piel	N	N	4	2, 6, 8, 9
+Cuidado oral	Cuidado de la salud	S	S	3	1, 6, 10
+Cuidado oral	Cuidado de la salud	S	N	2	3, 7
+Cuidado oral	Cuidado de la salud	N	S	2	4, 8
+Cuidado oral	Cuidado de la salud	N	N	3	2, 5, 9
+Cuidado oral	Cuidado personal y de la piel	S	S	4	1, 3, 7, 10
+Cuidado oral	Cuidado personal y de la piel	S	N	1	6
+Cuidado oral	Cuidado personal y de la piel	N	S	1	5
+Cuidado oral	Cuidado personal y de la piel	N	N	4	2, 4, 8, 9
+Cuidado de la salud	Cuidado personal y de la piel	S	S	2	1, 10
+Cuidado de la salud	Cuidado personal y de la piel	S	N	3	4, 6, 8
+Cuidado de la salud	Cuidado personal y de la piel	N	S	3	3, 5, 7
+Cuidado de la salud	Cuidado personal y de la piel	N	N	2	2, 9
