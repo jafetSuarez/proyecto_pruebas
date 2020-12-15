@@ -4,8 +4,6 @@
 
 1. Casos de prueba
 
-Para definir los casos de prueba:
-
 	- Crear el código en Python que se encuentra en la ruta *proyecto_pruebas/comb_pares/python_allpairs/comb_pares.py*
 
 	- Generar el archivo *combPares.txt* (que sirve de entrada para AllPairs)
