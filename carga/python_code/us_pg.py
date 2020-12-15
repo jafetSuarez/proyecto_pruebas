@@ -22,61 +22,73 @@ class WebsiteUser(FastHttpUser):
     network_timeout = 60.0
 
     # Index
-    @task
+    @task(1)
     def index(self):
         self.client.get("/")
+        pass
 
     # Brands
-    @task
+    @task(2)
     def brands(self):
         self.client.get("/brands")
+        pass
 
     # Baby
-    @task
+    @task(3)
     def baby_care(self):
         self.client.get("/brands/#Baby-Care")
+        pass
 
     # Fabric
-    @task
+    @task(4)
     def fabric_care(self):
         self.client.get("/brands/#Fabric-Care")
+        pass
 
     # Family
-    @task
+    @task(5)
     def family_care(self):
         self.client.get("/brands/#Family-Care")
+        pass
 
     # Feminine
-    @task
+    @task(6)
     def femenine_care(self):
         self.client.get("/brands/#Feminine-Care")
+        pass
 
     # Grooming
-    @task
+    @task(7)
     def grooming(self):
         self.client.get("/brands/#Grooming")
+        pass
 
     # Hair
-    @task
+    @task(8)
     def hair_care(self):
         self.client.get("/brands/#Hair-Care")
+        pass
 
     # Home
-    @task
+    @task(9)
     def home_care(self):
         self.client.get("/brands/#Home-Care")
+        pass
 
     # Oral
-    @task
+    @task(10)
     def oral_care(self):
         self.client.get("/brands/#Oral-Care")
+        pass
 
     # Personal health
-    @task
+    @task(11)
     def personal_health_care(self):
         self.client.get("/#Personal-Health-Care")
+        pass
 
     # Sking & Personal
-    @task
+    @task(12)
     def personal_health_care(self):
         self.client.get("/brands/#Skin-and-Personal-Care")
+        pass

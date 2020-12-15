@@ -37,48 +37,58 @@ class WebsiteUser(FastHttpUser):
     @task(3)
     def baby_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-del-bebé")
+        pass
 
     # Fabric
     @task(4)
     def fabric_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-de-la-ropa")
+        pass
 
     # Family
     @task(5)
     def family_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-de-la-familia")
+        pass
 
     # Feminine
     @task(6)
     def femenine_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-femenino")
+        pass
 
     # Grooming
     @task(7)
     def grooming(self):
         self.client.get("/marcas-y-productos/#Cuidado-personal")
+        pass
 
     # Hair
     @task(8)
     def hair_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-del-cabello")
+        pass
 
     # Home
     @task(9)
     def home_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-en-el-hogar")
+        pass
 
     # Oral
     @task(10)
     def oral_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-oral")
+        pass
 
     # Personal health
     @task(11)
     def personal_health_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-de-la-salud-personal")
+        pass
 
     # Sking & Personal
     @task(12)
     def personal_health_care(self):
         self.client.get("/marcas-y-productos/#Cuidado-personal-y-de-la-piel")
+        pass
