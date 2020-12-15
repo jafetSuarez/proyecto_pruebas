@@ -1,8 +1,8 @@
 ---
 
-# Instituto Tecnológico de Costa Rica
+Instituto Tecnológico de Costa Rica
 
-# Campus Tecnológico Local San Carlos
+Campus Tecnológico Local San Carlos
 
 # Escuela de Ingeniería en Computación
 
