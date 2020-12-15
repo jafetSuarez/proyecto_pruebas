@@ -1,4 +1,4 @@
-# Pruebas de Carga
+# Pruebas de Carga :bar_chart:
 
 ## Pruebas para pagina de Latinoamérica [https://latam.pg.com/](https://latam.pg.com/)
 
