@@ -8,7 +8,7 @@ El objetivo principal :dart: es relizar 60 casos de prueba con distintas técnic
 - [X] Combinación por pares :couple_with_heart:
 - [ ] Seguridad :fire:
 - [X] Rendimiento :runner:
-- [ ] Usabiliad :smile:
+- [ ] Aceptación :smile:
 - [ ] Carga :bar_chart:
 
 ## Made with :heart: in Costa Rica.
