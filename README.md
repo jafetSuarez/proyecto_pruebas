@@ -1,24 +1,24 @@
 ---
 
-Instituto Tecnológico de Costa Rica
+## Instituto Tecnológico de Costa Rica
 
-Campus Tecnológico Local San Carlos
+## Campus Tecnológico Local San Carlos
 
-# Escuela de Ingeniería en Computación
+## Escuela de Ingeniería en Computación
 
-# Aseguramiento de la Calidad de Software
+## Aseguramiento de la Calidad de Software
 
-# Proyecto de Pruebas
+## Proyecto de Pruebas
 
-# Jafet Suárez Jiménez
+## Jafet Suárez Jiménez
 
-# Randald Villegas Brenes
+## Randald Villegas Brenes
 
-# Fabián Mauricio Zamora Rivera
+## Fabián Mauricio Zamora Rivera
 
-# Yeudi Martinez
+## Yeudi Martinez
 
-# II Semestre, 2020
+## II Semestre, 2020
 
 ---
 
@@ -34,6 +34,6 @@ El objetivo principal :dart: es relizar 60 casos de prueba con distintas técnic
 - [ ] Seguridad :fire:
 - [X] Rendimiento :runner:
 - [X] Aceptación :cinema:
-- [ ] Carga :bar_chart:
+- [X] Carga :bar_chart:
 
 ## Made with :heart: in Costa Rica
