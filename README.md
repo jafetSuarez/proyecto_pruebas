@@ -1,23 +1,14 @@
 ---
 
 ## Instituto Tecnológico de Costa Rica
-
 ## Campus Tecnológico Local San Carlos
-
 ## Escuela de Ingeniería en Computación
-
 ## Aseguramiento de la Calidad de Software
-
 ## Proyecto de Pruebas
-
 ## Jafet Suárez Jiménez
-
 ## Randald Villegas Brenes
-
 ## Fabián Mauricio Zamora Rivera
-
 ## Yeudi Martinez
-
 ## II Semestre, 2020
 
 ---
