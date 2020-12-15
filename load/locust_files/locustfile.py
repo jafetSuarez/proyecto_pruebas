@@ -13,5 +13,5 @@ class WebsiteUser(HttpUser):
     #    #self.client.get("/static/assets.js")
         
     @task
-    def about(self):
+    def marcas(self):
         self.client.get("/marcas-y-productos/")
