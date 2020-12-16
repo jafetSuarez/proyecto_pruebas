@@ -1,6 +1,6 @@
 # Carga :bar_chart:
 
-## Pruebas para pagina de Latinoamérica [https://latam.pg.com/](https://latam.pg.com/)
+## Pruebas para sitio web de [Latinoamérica](https://latam.pg.com/)
 
 Para ejecutar correctamente las pruebas es necesario tener el lenguaje de programación [Python](https://www.python.org/downloads/) 3.6 o mayor.
 
@@ -49,7 +49,7 @@ Esas son las estadísticas de la prueba que se esta realizando, donde se ve las 
 
 Además de ver todos estos datos, en caso de que se requiera, se pueden descargar estos datos y gráficos en diferentes formatos para poder ser procesados en otra ocasión
 
-## Pruebas para pagina de US [https://us.pg.com/](https://us.pg.com/)
+## Pruebas para sitio web de [US](https://us.pg.com/)
 
 Para ejecutar estas pruebas al igual que las anteriores es necesario tener Python y Locust ya instalados previamente, luego es solo de iniciar el servidor con la siguiente instrucción
 
