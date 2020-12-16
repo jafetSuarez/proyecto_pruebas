@@ -1,4 +1,4 @@
-# Pruebas de Aceptación
+# Aceptación :cinema:
 
 ## [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
 
