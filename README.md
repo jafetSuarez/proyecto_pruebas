@@ -1,9 +1,9 @@
 
 ---
 
-# Instituto Tecnológico de Costa Rica 
-## Campus Tecnológico Local San Carlos, Escuela de Ingeniería en Computación 
-## Aseguramiento de la Calidad de Software, Grupo 50 
+#### Instituto Tecnológico de Costa Rica 
+#### Campus Tecnológico Local San Carlos, Escuela de Ingeniería en Computación 
+#### Aseguramiento de la Calidad de Software, Grupo 50 
 #### II Semestre, 2020 
 
 ---
