@@ -8,4 +8,4 @@ Se plantearon los casos en el mismo proyecto para poder hacer comparaciones sin 
 
 2. Recuerde habilitar en el proyecto con click derecho únicamente el caso de prueba que desea ejecutar
 
-![Habilitar Caso de Prueba](/images/enable_case.png)
+![Habilitar Caso de Prueba](./images/enable_case.png)
