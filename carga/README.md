@@ -9,13 +9,13 @@ Para ejecutar correctamente las pruebas es necesario tener el lenguaje de progra
 Seguidamente se debe instalar un paquete de Python que se llama [Locust](https://docs.locust.io/en/stable/) el cual se puede instalar con la siguiente instrucción
 
 ```bash
-pip3 install locust
+    pip3 install locust
 ```
 
 Cuando ya este instalado el paquete, solo es necesario ejecutar el siguiente código 
 
 ```bash
-locust -f latam_pg.py
+    locust -f latam_pg.py
 ```
 
 Con el código anterior se inicia el servidor con el script  llamado `latam_pg.py`   ahora es necesario abrir en el navegador la dirección [http://localhost:8089/](http://localhost:8089/) donde inicia la prueba
@@ -54,7 +54,7 @@ Además de ver todos estos datos, en caso de que se requiera, se pueden descarga
 Para ejecutar estas pruebas al igual que las anteriores es necesario tener Python y Locust ya instalados previamente, luego es solo de iniciar el servidor con la siguiente instrucción
 
 ```bash
-locust -f us_pg.py
+    locust -f us_pg.py
 ```
 
 Al igual que las pruebas de la pagina de Latinoamérica es el mismo procedimiento para probar el sitio, la cantidad de usuarios que se quiera, en la segunda entrada se debe ingresar la cantidad de usuarios que se generan por segundo y la tercera ya se encuentra previamente programada.

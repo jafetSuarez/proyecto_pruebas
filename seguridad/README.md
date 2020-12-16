@@ -5,8 +5,11 @@ Link de la carpeta con las pruebas de seguridad: [enlace](https://drive.google.c
 ## Pasos
 
 1. Descargar el archivo .zip 
-2. Descomprimir el archivo una vez descargado con WinRar
-3. Descargar ZAP en el siguiente enlace https://www.zaproxy.org/
+
+2. Descomprimir el archivo una vez descargado
+
+3. Descargar ZAP en el siguiente [enlace](https://www.zaproxy.org/)
+
 4. Ejecutar ZAP  En la esquina superior izquierda seleccione
    ```
       archivo>> abrir sesion >> Pruebas_automaitzadas_p&g.session
