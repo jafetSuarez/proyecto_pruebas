@@ -1,12 +1,12 @@
 # Pruebas de Caja Negra
 
-## Clases de equivalencia
+## Clases de equivalencia :computer:
 
 Se plantearon 10 casos de prueba utilizando la técnica de clases de equivalencia. Estos casos fueron automatizados utilizando el framework [Protractor](https://www.protractortest.org/#/) para aplicaciones Angular y AngularJS. De modo que la aplicación se ejecuta en un navegador real, interactuando con ella como lo haría un usuario.
 
 Para ejecutar los casos de pruebas desarrollados seguir los siguientes pasos:
 
-**1. Instalar Protractor, actualizar y ejecutar el servidor de Selenium**
+**1. Instalar Protractor, actualizar y ejecutar el servidor de Selenium** 
 
 npm install -g protractor
 npm install webdriver-manager –g
