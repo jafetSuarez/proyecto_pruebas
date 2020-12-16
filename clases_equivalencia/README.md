@@ -25,4 +25,4 @@ protractor protractor.conf.js → Sobre la carpeta e2e de nuestro proyecto
 
 ## Resultados obtenidos
 
-![images/resultado_protractor.png](Pruebas%20de%20Caja%20Negra%2067167a36742144338e0bd40f9f3a6bad/resultado_protractor.png)
+![images/resultado_protractor.png](./images/resultado_protractor.png)
