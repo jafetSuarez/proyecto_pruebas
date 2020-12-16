@@ -12,7 +12,7 @@
 
 El objetivo principal :dart: es relizar 60 casos de prueba con distintas técnicas para asegurar la calidad de los sitios web de P&G en donde se muestran [marcas](https://latam.pg.com/marcas-y-productos/) para LATAM y [bradns](https://us.pg.com/brands/) para US.
 
-### Los tipos de pruebas que puede encontrar en este proyecto son:
+### Los tipos de pruebas que puede encontrar en este proyecto son
 - [X] Clases de equivalencia :computer:
 - [X] Combinación por pares :couple_with_heart:
 - [X] Seguridad :fire:
