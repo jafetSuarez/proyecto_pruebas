@@ -1,6 +1,6 @@
 # Pruebas de Caja Negra
 
-## Clases de equivalencia :computer:
+## :computer: Clases de equivalencia 
 
 Se plantearon 10 casos de prueba utilizando la técnica de clases de equivalencia. Estos casos fueron automatizados utilizando el framework [Protractor](https://www.protractortest.org/#/) para aplicaciones Angular y AngularJS. De modo que la aplicación se ejecuta en un navegador real, interactuando con ella como lo haría un usuario.
 
@@ -23,6 +23,6 @@ ng serve → Sobre la carpeta del proyecto principal
 
 protractor protractor.conf.js → Sobre la carpeta e2e de nuestro proyecto
 
-## Resultados obtenidos
+## :heavy_check_mark: Resultados obtenidos
 
 ![images/resultado_protractor.png](./images/resultado_protractor.png)
