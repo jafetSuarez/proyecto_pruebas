@@ -12,7 +12,7 @@ El objetivo principal :dart: es relizar 60 casos de prueba con distintas técnic
 ### Los tipos de pruebas que puede encontrar en este proyecto son:
 - [X] Clases de equivalencia :last_quarter_moon:
 - [X] Combinación por pares :couple_with_heart:
-- [ ] Seguridad :fire:
+- [X] Seguridad :fire:
 - [X] Rendimiento :runner:
 - [X] Aceptación :cinema:
 - [X] Carga :bar_chart:
