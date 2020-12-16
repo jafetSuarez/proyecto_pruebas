@@ -2,7 +2,8 @@
 
 ## :computer: Clases de equivalencia 
 
-Se plantearon 10 casos de prueba utilizando la técnica de clases de equivalencia. Estos casos fueron automatizados utilizando el framework [Protractor](https://www.protractortest.org/#/) para aplicaciones Angular y AngularJS. De modo que la aplicación se ejecuta en un navegador real, interactuando con ella como lo haría un usuario.
+Se plantearon 10 casos de prueba utilizando la técnica de clases de equivalencia. Dichos casos fueron ejecutados para el módulo de marcas de las página de P&G en inglés y español.
+Estos casos fueron automatizados utilizando el framework [Protractor](https://www.protractortest.org/#/) para aplicaciones Angular y AngularJS. De modo que la aplicación se ejecuta en un navegador real, interactuando con ella como lo haría un usuario.
 
 Para ejecutar los casos de pruebas desarrollados seguir los siguientes pasos:
 
