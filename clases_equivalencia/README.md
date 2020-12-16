@@ -6,18 +6,18 @@ Se plantearon 10 casos de prueba utilizando la técnica de clases de equivalenci
 
 Para ejecutar los casos de pruebas desarrollados seguir los siguientes pasos:
 
-1. Instalar Protractor, actualizar y ejecutar el servidor de Selenium
+**1. Instalar Protractor, actualizar y ejecutar el servidor de Selenium**
 
 npm install -g protractor
 npm install webdriver-manager –g
 webdriver-manager update
 webdriver-manager start
 
-2. Agregar y modificar los archivos al proyecto
+**2. Agregar y modificar los archivos al proyecto**
 
  Editar el archivo protractor.conf.js del proyecto por el facilitado en la carpeta protractor. Los archivos con terminación .e2e-spec.ts contendrán los casos de prueba desarrollados. Estos se agregan a la carpeta proyecto/e2e/src del proyecto de Angular.
 
-3. Ejecutar los siguientes comandos
+**3. Ejecutar los siguientes comandos**
 
 ng serve → Sobre la carpeta del proyecto principal
 
